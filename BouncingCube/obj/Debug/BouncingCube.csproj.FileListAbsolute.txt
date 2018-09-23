@@ -1,0 +1,10 @@
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\obj\Debug\BouncingCube.csprojAssemblyReference.cache
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\obj\Debug\BouncingCube.Form1.resources
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\obj\Debug\BouncingCube.Properties.Resources.resources
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\obj\Debug\BouncingCube.csproj.GenerateResource.cache
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\obj\Debug\BouncingCube.csproj.CoreCompileInputs.cache
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\bin\Debug\BouncingCube.exe.config
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\bin\Debug\BouncingCube.exe
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\bin\Debug\BouncingCube.pdb
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\obj\Debug\BouncingCube.exe
+C:\Users\XinkeCao\Desktop\BouncingCube\BouncingCube\obj\Debug\BouncingCube.pdb
